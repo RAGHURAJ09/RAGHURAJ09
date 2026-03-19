@@ -1,6 +1,61 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Raghuraj Rajpoot</h1><br><h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3><br><br><p align="center"><br>  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Real+World+Projects" /><br></p><br><br>---<br><br>## 👨‍💻 About Me<br><br>🚀 Passionate developer focused on building scalable and impactful applications<br>💡 Love solving real-world problems using code and continuous learning<br><br>* 🔭 I’m currently working on **Full Stack & AI Projects**<br>* 🤝 I’m looking to collaborate on **Open Source & Innovative Ideas**<br>* 🧠 I’m currently learning **System Design & Advanced Backend**<br>* 💬 Ask me about **Web Development, Python, JavaScript**<br>* ⚡ Fun fact: **I turn ideas into working products 🚀**<br><br>---<br><br>## 🛠️ Tech Stack<br><br>💻 **Languages:**<br>JavaScript | Python | C++<br><br>🌐 **Frontend:**<br>HTML | CSS | React.js<br><br>⚙️ **Backend:**<br>Node.js | Flask<br><br>🗄️ **Database:**<br>MySQL | MongoDB<br><br>☁️ **Tools & Platforms:**<br>Git | GitHub | VS Code | Supabase<br><br>---<br><br>## 🚀 Projects<br><br>🔹 **Customer Email AI Classifier**<br>AI-based system to classify and automate customer emails<br><br>🔹 **Full Stack Web Applications**<br>Authentication systems, dashboards, responsive UI<br><br>🔹 **Supabase Auth System**<br>Secure login/signup with Google Authentication<br><br>🔹 **Machine Learning Projects**<br>Prediction models & data-driven insights<br><br>---<br><br>## 📊 GitHub Stats<br><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=RAGHURAJ09&show_icons=true&theme=tokyonight" /><br></p><br><br><p align="center"><br>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAGHURAJ09&theme=tokyonight" /><br></p><br><br>---<br><br>## 🏆 Achievements<br><br><p align="center"><br>  <img src="https://github-profile-trophy.vercel.app/?username=RAGHURAJ09&theme=radical&no-frame=true&row=1&column=6" /><br></p><br><br>---<br><br>## 📈 Activity Graph<br><br><p align="center"><br>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGHURAJ09&theme=tokyo-night" /><br></p><br><br>---<br><br>## 🌐 Connect With Me<br><br><p align="center"><br>  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •<br>  <a href="https://your-portfolio-link.com">Portfolio</a> •<br>  <a href="mailto:your@email.com">Email</a><br></p><br><br>---<br><br>## 💡 Quote<br><br>✨ *"Consistency and curiosity build mastery."*<br><br>---<br>
+# 💫 About Me:  
+<h1 align="center">Hi 👋, I'm Raghuraj Rajpoot</h1><h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3><p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Real+World+Projects" /></p>
 
+---
+## 👨‍💻 About Me  
+🚀 Passionate developer focused on building scalable and impactful applications  
+💡 Love solving real-world problems using code and continuous learning  
+* 🔭 I’m currently working on **Full Stack & AI Projects**  
+* 🤝 I’m looking to collaborate on **Open Source & Innovative Ideas**  
+* 🧠 I’m currently learning **System Design & Advanced Backend**  
+* 💬 Ask me about **Web Development, Python, JavaScript**  
+* ⚡ Fun fact: **I turn ideas into working products 🚀**
+
+---
+## 🛠️ Tech Stack  
+💻**Languages:**  
+JavaScript | Python | C++  
+
+🌐 **Frontend:**  
+HTML | CSS | React.js  
+
+⚙️ **Backend:**  
+Node.js | Flask  
+
+🗄️ **Database:**  
+MySQL | MongoDB  
+
+☁️ **Tools & Platforms:**  
+Git | GitHub | VS Code | Supabase  
+
+---
+## 🚀 Projects
+🔹 **Customer Email AI Classifier**  
+AI-based system to classify and automate customer emails  
+
+🔹 **Full Stack Web Applications**  
+Authentication systems, dashboards, responsive UI  
+
+🔹 **Supabase Auth System**  
+Secure login/signup with Google Authentication  
+
+🔹 **Machine Learning Projects**  
+Prediction models & data-driven insights  
+
+---
+## 📊 GitHub Stats  
+<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=RAGHURAJ09&show_icons=true&theme=tokyonight" /></p><p align="center">  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAGHURAJ09&theme=tokyonight" /></p>  
+
+---
+<!--## 🏆 Achievements<p align="center">  <img src="https://github-profile-trophy.vercel.app/?username=RAGHURAJ09&theme=radical&no-frame=true&row=1&column=6" /></p>
+--- -->
+## 📈 Activity Graph<p align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGHURAJ09&theme=tokyo-night" /></p>
+---
+## 🌐 Connect With Me<p align="center">  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •  <a href="https://your-portfolio-link.com">Portfolio</a> •  <a href="mailto:your@email.com">Email</a></p>
+---
+## 💡 Quote✨ *"Consistency and curiosity build mastery."*
+
+---
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/sPkVeWrz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raghuraj-rajpoot/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raghuraj_09) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raghurajrajpoot2819@gmail.com) 
@@ -12,13 +67,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RAGHURAJ09&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RAGHURAJ09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RAGHURAJ09&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=RAGHURAJ09&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+<!--### 🔝 Top Contributed Repo-->
 ![](https://github-contributor-stats.vercel.app/api?username=RAGHURAJ09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
