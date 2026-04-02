@@ -56,7 +56,7 @@ Prediction models & data-driven insights
 --- -->
 ## 📈 Activity Graph<p align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGHURAJ09&theme=tokyo-night" /></p>
 ---
-## 🌐 Connect With Me<p align="center">  <a href="https://linkedin.com/in/YOUR_LINK">LinkedIn</a> •  <a href="https://your-portfolio-link.com">Portfolio</a> •  <a href="mailto:your@email.com">Email</a></p>
+## 🌐 Connect With Me<p align="center">  <a href="https://linkedin.com/in/raghuraj-rajpoot">LinkedIn</a> •  <a href="https://your-portfolio-link.com">Portfolio</a> •  <a href="mailto:raghurajrajpoot2819@gmail.com">Email</a></p>
 ---
 ## 💡 Quote✨ *"Consistency and curiosity build mastery."*
 
