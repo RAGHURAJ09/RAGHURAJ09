@@ -1,4 +1,3 @@
-# 💫 About Me:  
 <img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Raghuraj%20Pratap%20Rajpoot&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%7C%20MERN%20STACK%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <div align="center">
