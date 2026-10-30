@@ -57,6 +57,13 @@ Prediction models & data-driven insights
 ## 📈 Activity Graph<p align="center">  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAGHURAJ09&theme=tokyo-night" /></p>
 ---
 ## 🌐 Connect With Me<p align="center">  <a href="https://linkedin.com/in/raghuraj-rajpoot">LinkedIn</a> •  <a href="https://your-portfolio-link.com">Portfolio</a> •  <a href="mailto:raghurajrajpoot2819@gmail.com">Email</a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
 ---
 ## 💡 Quote✨ *"Consistency and curiosity build mastery."*
 
@@ -87,3 +94,22 @@ Prediction models & data-driven insights
 [![](https://visitcount.itsvg.in/api?id=RAGHURAJ09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shivangi-chaurasia-398a15358">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:shivangichaurasia1515@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
+</div>
