@@ -1,5 +1,10 @@
 # 💫 About Me:  
-<h1 align="center">Hi 👋, I'm Raghuraj Rajpoot</h1><h3 align="center">🚀 Full Stack Developer | AI Enthusiast | Problem Solver</h3><p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Real+World+Projects" /></p>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Raghuraj%20Pratap%20Rajpoot&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%7C%20MERN%20STACK%20&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2200&pause=700&center=true&vCenter=true&width=950&lines=AI+%26+ML+Learner+%F0%9F%A7%A0+%7C+Full-Stack+Builder+%F0%9F%9A%80+%7C+DSA+in+Java;I+build+projects+that+turn+data+into+decisions.;Currently+exploring%3A+Agents%2C+NLP%2C+LLMs%2C+and+Cloud." />
+</div>
+<p align="center">  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Building+Real+World+Projects" /></p>
 
 ---
 ## 👨‍💻 About Me  
@@ -64,6 +69,7 @@ Prediction models & data-driven insights
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
+
 ---
 ## 💡 Quote✨ *"Consistency and curiosity build mastery."*
 
@@ -94,22 +100,5 @@ Prediction models & data-driven insights
 [![](https://visitcount.itsvg.in/api?id=RAGHURAJ09&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivangi-chaurasia-398a15358">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:shivangichaurasia1515@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
-
-<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
